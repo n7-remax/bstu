@@ -1,0 +1,43 @@
+.header {
+    padding-top: 40px;
+}
+
+.test {
+    background: linear-gradient(to right, #fff 0% , #fff 0%, transparent), url("../../common/images/lecture.jpg") no-repeat;
+    background-position-x: 100%;
+    background-position-y: 40%;
+    width: 100%;
+    background-size: 580px;
+}
+
+.logo-place {
+    display: flex;
+    flex-direction: row;
+    margin: 0px 0 40px 40px;
+}
+
+.logo {
+    width: 130px;
+    height: auto;
+}
+
+.header h1 {
+    line-height: 80px;
+    color: #0e2f55;
+}
+
+.nav {
+    border-bottom: #0e2f55 1px solid;
+}
+
+.nav ul {
+    margin: 0;
+    padding: 0;
+    list-style-type:none;
+    text-align: left;
+}
+
+.nav ul li {
+    display: inline;
+    font-size: 14px;
+}
