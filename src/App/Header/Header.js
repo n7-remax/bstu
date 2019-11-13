@@ -5,14 +5,15 @@ import './header.css'
 const Header = () =>
     <header className="header test">
         <div className="logo-place">
-            <a href="#"><img className="logo" src={require('./logo.png')}></img></a>
+            <a href="#"><img className="logo" src={require('./logo.png')} alt="logo"></img></a>
             <h1>Bryansk State Technical University</h1>
         </div>
         <nav className="nav">
             <ul>
-                <li>Study with us</li>
-                <li>About us</li>
-                <li>Integration program</li>
+                <li><a href="#">Study with us</a></li>
+                <li><a href="#">About us</a></li>
+                <li><a href="#">Integration program</a></li>
+                <li><a href="#">Contact us</a></li>
             </ul>
         </nav>
     </header>

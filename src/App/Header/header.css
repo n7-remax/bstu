@@ -27,6 +27,7 @@
 }
 
 .nav {
+    padding-left: 40px;
     border-bottom: #0e2f55 1px solid;
 }
 
@@ -39,5 +40,19 @@
 
 .nav ul li {
     display: inline;
-    font-size: 14px;
+    margin: 0 10px 0 10px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.header .nav a {
+    text-decoration: none;
+    color: #0e2f55;
+    transition: all 0.5s ease-in-out;
+}
+
+.header .nav a:hover {
+    color: #2163ad;
+    border-bottom: #2163ad 5px solid;
+    transition: all 0.2s ease-out;
 }
