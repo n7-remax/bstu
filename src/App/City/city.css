@@ -1,0 +1,16 @@
+.video-bar {
+    background-color:#013035;
+    padding: 2rem .5rem 4rem;
+}
+
+.city-container {
+}
+
+blockquote {
+    text-align: center;
+    font-family: Georgia,garamond,serif;
+    font-size: 52px;
+    color: #fff;
+    padding: 0;
+    margin: 40px;
+}

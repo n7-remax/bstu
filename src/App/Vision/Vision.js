@@ -1,9 +1,9 @@
 import React from 'react'
 
-import './city.css'
+import './vision.css'
 
-const City = () =>
-    <section className="city">
+const Vision = () =>
+    <section className="vision">
         <div class="video-bar flint">
             <div class="city-container">
                 <blockquote>“It’s great studying in Bryansk - I fell in love with the city at first sight.”</blockquote>
@@ -13,4 +13,4 @@ const City = () =>
         </div>
     </section>
 
-export default City
+export default Vision
