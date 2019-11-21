@@ -2,7 +2,7 @@
     padding-top: 40px;
 }
 
-.test {
+.header-background {
     background: linear-gradient(to right, #fff 1% , #fff 1%, transparent), url("../../common/images/lecture.jpg") no-repeat;
     background-position-x: 100%;
     background-position-y: 40%;

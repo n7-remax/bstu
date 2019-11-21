@@ -3,7 +3,7 @@ import React from 'react'
 import './header.css'
 
 const Header = () =>
-    <header className="header test">
+    <header className="header header-background">
         <div className="logo-place">
             <a href="#"><img className="logo" src={require('./logo.png')} alt="logo"></img></a>
             <h1>Bryansk State Technical University</h1>
