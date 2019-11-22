@@ -1,3 +1,8 @@
+.header {
+    max-width: 1100px;
+    margin:0 auto;
+}
+
 .header-background {
     background: linear-gradient(to right, #fff 1% , #fff 1%, transparent), url("../../common/images/lecture.jpg") no-repeat;
     background-position-x: 100%;
@@ -9,7 +14,7 @@
 .logo-place {
     display: flex;
     flex-direction: row;
-    margin: 0px 40px 40px 40px;
+    margin: 0px 40px 40px 0px;
     padding-top:40px;
 }
 
@@ -24,7 +29,6 @@
 }
 
 .nav {
-    padding-left: 40px;
     border-bottom: #0e2f55 1px solid;
 }
 
@@ -37,7 +41,7 @@
 
 .nav ul li {
     display: inline;
-    margin: 0 10px 0 10px;
+    margin-right: 20px;
     font-size: 18px;
     font-weight: 600;
 }
