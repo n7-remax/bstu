@@ -1,0 +1,76 @@
+.vision {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.vision h2 {
+    text-align: center;
+    font-family: Georgia,garamond,serif;
+    font-size: 56px;
+    color: #0e2f55;
+    font-style: normal;
+    font-weight: 400;
+    margin: 40px 0;
+}
+
+.flex {
+    display: flex;
+    flex-direction: row;
+}
+.col-three {
+    margin: 0 8px;
+    background-color: #f4f4f4;
+    border-bottom: rgb(175, 185, 28) 15px solid;
+    padding: 48px;
+    flex:1;
+}
+
+.col-three:nth-child(2) {
+    border-bottom-color:rgb(6, 59, 175);
+
+}
+.col-three:nth-child(3) {
+    border-bottom-color:rgb(18, 160, 101);
+
+}
+
+
+
+.flex h3 {
+    text-align: center;
+    font-size: 51px;
+    color: #0e2f55;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom:32px ;
+}
+
+.flex p {
+    font-size: 20px;
+    color: #144680;
+    line-height: 1.6;
+    margin-bottom:16px;
+
+}
+
+.vision .button-place {
+    display: flex;
+    justify-content: center;
+    margin:20px 0;
+}
+
+.vision-button {
+    text-decoration: none;
+    border: 1px solid #d3273e;
+    background: #d3273e;
+    color: #fff;
+    padding:13px 48px;
+    line-height: 1.35;
+    text-transform: uppercase;
+    transition: .25s ease-out,color .25s ease-out;
+}
+
+.vision-button:hover {
+    background: #a01d2e;
+    color: rgb(224, 215, 215);
+}
