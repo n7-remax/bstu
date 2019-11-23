@@ -47,26 +47,13 @@
     letter-spacing: 8px;
 }
 
-.button-place {
-    text-align: center;
-}
-
-.button {
-    text-decoration: none;
-    background: #fff;
-    border: 1px solid #d3273e;
-    color: #d3273e;
-    display: block;
+.intro .button {
     position: absolute;
     left: 50%;
     transform: translateY(-50%) translateX(-50%);
-    padding:9px;
-    line-height: 1.35;
-    text-transform: uppercase;
 }
 
-.button:hover {
+.intro .button:hover {
     background: #d3273e;
     color: #fff;
-
 }
