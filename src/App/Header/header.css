@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Cinzel&display=swap');
 
+.header {
+    padding-bottom: 5px;
+}
+
 .header .logo-place {
     max-width: 1110px;
     display: flex;
