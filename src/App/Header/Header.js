@@ -3,16 +3,16 @@ import React from 'react'
 import './header.css'
 
 const Header = () =>
-    <header className="header header-background">
+    <header className="header">
         <div className="logo-place">
             <a href="#"><img className="logo" src={require('./logo.png')} alt="logo"></img></a>
-            <h1>Bryansk State Technical University</h1>
+            <h1><a href="#">Bryansk State Technical University</a></h1>
         </div>
         <nav className="nav">
             <ul>
                 <li><a href="#">Study with us</a></li>
                 <li><a href="#">About us</a></li>
-                <li><a href="#">Integration program</a></li>
+                <li><a href="#">Interntaional</a></li>
                 <li><a href="#">Contact us</a></li>
             </ul>
         </nav>
