@@ -42,13 +42,13 @@ blockquote {
 }
 
 .city .buton:hover {
-    background: #d3273e;
-    color: #fff;
+    background: #a01d2e;
+    color: rgb(224, 215, 215);
 
 }
 
 .city .buton-place {
     display: flex;
     justify-content: center;
-    margin: 20px 0;
+    margin: 48px 0;
 }
