@@ -20,21 +20,19 @@
 .col-three {
     margin: 0 8px;
     background-color: #f4f4f4;
-    border-bottom: rgb(175, 185, 28) 15px solid;
+    border-bottom: rgb(224, 236, 44) 15px solid;
     padding: 48px;
     flex:1;
 }
 
 .col-three:nth-child(2) {
-    border-bottom-color:rgb(6, 59, 175);
+    border-bottom-color:rgb(24, 88, 224);
 
 }
 .col-three:nth-child(3) {
-    border-bottom-color:rgb(18, 160, 101);
+    border-bottom-color:rgb(15, 196, 120);
 
 }
-
-
 
 .flex h3 {
     text-align: center;
