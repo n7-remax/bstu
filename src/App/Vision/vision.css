@@ -54,21 +54,18 @@
 .vision .button-place {
     display: flex;
     justify-content: center;
-    margin:20px 0;
+    margin:48px 0;
 }
 
-.vision-button {
-    text-decoration: none;
+.vision .button {
     border: 1px solid #d3273e;
     background: #d3273e;
     color: #fff;
-    padding:13px 48px;
-    line-height: 1.35;
-    text-transform: uppercase;
+    padding: 13px 48px;
     transition: .25s ease-out,color .25s ease-out;
 }
 
-.vision-button:hover {
+.vision .button:hover {
     background: #a01d2e;
     color: rgb(224, 215, 215);
 }

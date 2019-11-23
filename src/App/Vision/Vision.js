@@ -20,7 +20,7 @@ const Vision = () =>
             </div>
         </div>
         <div className="button-place">
-        <a class="vision-button" href="#about-us">Learn more about us</a>
+        <a class="button" href="#about-us">Learn more about us</a>
         </div>
     </section>
 
