@@ -1,9 +1,10 @@
-.video-bar {
-    background-color:#013035;
-    padding: 2rem .5rem 4rem;
+.city {
+    padding:40px 0;
 }
 
 .city-container {
+    background-color:#013035;
+    padding: 2rem .5rem 4rem;
 }
 
 blockquote {
@@ -11,6 +12,43 @@ blockquote {
     font-family: Georgia,garamond,serif;
     font-size: 52px;
     color: #fff;
-    padding: 0;
-    margin: 40px;
+    padding: 40px;
+    margin: 0 auto;
+    max-width: 1100px;
+}
+
+.video-frame {
+    display: flex;
+    justify-content: center;
+    margin-top: -3rem;
+}
+
+.city iframe {
+    width: 1080px;
+    height: 720px;
+    box-shadow: 5px 5px 10px rgba(0,0,0,.3);
+}
+
+.city .buton {
+    text-decoration: none;
+    border: 1px solid #d3273e;
+    background: #d3273e;
+    color: #fff;
+    padding: 13px 48px;
+    line-height: 1.35;
+    text-transform: uppercase;
+    transition: .25s ease-out,color .25s ease-out;
+    display: block;
+}
+
+.city .buton:hover {
+    background: #d3273e;
+    color: #fff;
+
+}
+
+.city .buton-place {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
 }
