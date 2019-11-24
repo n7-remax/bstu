@@ -1,12 +1,14 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
+
 
 import './header.css'
 
 const Header = () =>
     <header className="header">
         <div className="logo-place">
-            <a href="#"><img className="logo" src={require('./logo.png')} alt="logo"></img></a>
-            <h1><a href="#">Bryansk State Technical University</a></h1>
+            <Link to="/"><img className="logo" src={require('./logo.png')} alt="logo"></img></Link>
+            <h1><Link to="/">Bryansk State Technical University</Link></h1>
         </div>
         <nav className="nav">
             <ul>

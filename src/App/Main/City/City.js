@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 import './city.css'
 
@@ -12,7 +13,7 @@ const City = () =>
             </iframe>
         </div>
         <div className="buton-place">
-            <a className="buton" href="#">Learn more about Bryansk</a>
+        <Link className="buton" to="/bryansk">Learn more about Bryansk</Link>
         </div>
     </section>
 
