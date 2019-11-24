@@ -1,18 +1,14 @@
 import React from 'react';
 import './App.css';
-import Intro from './Intro/Intro';
 import Header from './Header/Header';
-import City from './City/City';
-import Vision from './Vision/Vision';
 import Footer from './Footer/Footer';
+import Main from './Main/Main';
 
 function App() {
   return (
     <div className="App">
       <Header></Header>
-      <Intro></Intro>
-      <City></City>
-      <Vision></Vision>
+      <Main></Main>
       <Footer></Footer>
     </div>
   );

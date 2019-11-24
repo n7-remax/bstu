@@ -38,7 +38,7 @@
 .words-container {
     display: flex;
     background-size:100%;
-    background-image: url("../../common/images/students.jpg");
+    background-image: url("../../../common/images/students.jpg");
     background-size:cover;
     background-position-y: 70%;
     height: 380px;
