@@ -3,8 +3,12 @@
 .footer {
     margin-top:40px;
     border-top: #2163ad 2px solid;
-    /* background: url(../../common/images/bgtu.png) no-repeat 100% 100%;
-    background-size: 500px; */
+    background-image: url('../../common/images/back.png');
+    background-size: auto;
+    background-position-x: 100%;
+    background-position-y: 100%;
+    background-repeat: no-repeat;
+    background-color: white;
 }
 
 .footer .row {
