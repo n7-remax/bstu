@@ -7,11 +7,21 @@
 .bryansk p {
     font-size: 18px;
     line-height: 1.5;
+    margin-bottom: 15px;
 }
 
 .bryansk .arms-place img {
-    height: auto;
-    margin-bottom:40px;
+    width: 15%;
+    height: 65%;
+    margin:20px 0;
+}
+
+.bryansk .arms-place {
+   background-image: url('../../../common/images/park.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position-y: 50%;
+   margin-bottom: 20px;
 }
 
 .bryansk .arms-place {
@@ -24,5 +34,5 @@
     width: 50%;
     height: auto;
     float: left;
-    margin: 10px 10px 10px 0;
+    margin: 0 10px 10px 0;
 }
