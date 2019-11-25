@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 import './vision.css'
 
@@ -20,7 +21,7 @@ const Vision = () =>
             </div>
         </div>
         <div className="button-place">
-        <a className="button" href="#about-us">Learn more about us</a>
+        <Link className="button" to="/our-vision">Learn more about us</Link>
         </div>
     </section>
 
