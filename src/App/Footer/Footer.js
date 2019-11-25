@@ -7,18 +7,23 @@ const Footer = () =>
         <div className="row footer-info">
             <div className="col-five">
                 <p>
-                    <span>Bryansk State Technical University</span>
-                    <span>50-letia Oktyabrya bulv.</span>
-                    <span>Bryansk, 241035, Russia</span>
+                    <span>241035, Bryansk, ul Institutskaya, 16,</span>
+                    <span>Administrative building, 2nd floor</span>
+                    <span>RM. А210, А230, А231</span>
                 </p>
                 <p>
-                    <span>Course and application enquiries</span>
+                    <span>Email:</span>
                     <a href="#">pk@tu-bryansk.ru</a>
                 </p>
                 <p>
-                    <span>General enquiries</span>
-                    <span>(920) 604-88-04</span>
-                    <a href="#">rector@tu-bryansk.ru</a>
+                    <span>Phones:</span>
+                    <span>Admissions: +7 (4832) 58-82-64</span>
+                    <span>Responsible Secretary of the admission</span>
+                    <span>Vysotsky Andrey: +7 (4832) 51-19-97</span>
+                    <span>First Vice-rector for academic Affairs</span>
+                    <span>Prokofiev Alexander: +7 (4832) 56-25-09</span>
+                    <span>Preparatory courses</span>
+                    <span>Lebedeva Tatyana: +7 (4832) 58-82-42</span>
                 </p>
             </div>
             <div className="col-five">
