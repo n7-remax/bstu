@@ -3,7 +3,7 @@ import React from 'react'
 import './footer.css'
 
 const Footer = () =>
-    <footer className="footer">
+    <footer className="footer" id="footer">
         <div className="row footer-info">
             <div className="col-five">
                 <p>

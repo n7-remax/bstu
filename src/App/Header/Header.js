@@ -1,5 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import AnchorLink from 'react-anchor-link-smooth-scroll'
+
 
 import './header.css'
 
@@ -14,7 +16,7 @@ const Header = () =>
                 <li><Link to="/">Home</Link></li>
                 <li><Link to="/our-vision">About us</Link></li>
                 <li><Link to="/bryansk">Explore our city</Link></li>
-                <li><a href="#">Contact us</a></li>
+                <li><AnchorLink href='#footer'>Contact us</AnchorLink></li>
             </ul>
         </nav>
     </header>
