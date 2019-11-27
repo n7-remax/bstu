@@ -28,3 +28,27 @@
 	z-index: 2;
 }
 
+.university .button {
+    text-decoration: none;
+    border: 1px solid #d3273e;
+    background: #d3273e;
+    color: #fff;
+    padding: 13px 48px;
+    line-height: 1.35;
+    text-transform: uppercase;
+    transition: .25s ease-out,color .25s ease-out;
+    display: block;
+}
+
+.university .button:hover {
+    background: #a01d2e;
+    color: rgb(224, 215, 215);
+
+}
+
+.university .button-place {
+    display: flex;
+    justify-content: center;
+    margin: 48px 0;
+}
+
