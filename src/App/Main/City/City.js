@@ -9,7 +9,7 @@ const City = () =>
             <blockquote>“Bryansk is a City of Military Glory - Here i can literally touch the history.”</blockquote>
         </div>
         <div className="video-frame">
-            <iframe src="https://www.youtube.com/embed/qlwpBcZEt5s" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen>
+            <iframe title="Bryansk City" src="https://www.youtube.com/embed/qlwpBcZEt5s" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen>
             </iframe>
         </div>
         <div className="buton-place">
