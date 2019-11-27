@@ -55,9 +55,11 @@
     position: absolute;
     left: 50%;
     transform: translateY(-50%) translateX(-50%);
+    transition: .25s ease-out,color .25s ease-out;
 }
 
 .intro .button:hover {
     background: #d3273e;
     color: #fff;
+    transition: .25s ease-out,color .25s ease-out;
 }
