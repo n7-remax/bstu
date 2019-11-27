@@ -14,10 +14,10 @@ import AboutUniversity from './AboutUniversity/AboutUniversity';
 function Main() {
   return (
     <main className="Main">
-      <Route exact path="/" render={() => <Intro/>}/>
-      <Route exact path="/" render={() => <City/>}/>
-      <Route exact path="/" render={() => <Vision/>}/>
-      <Route exact path="/" render={() => <University/>}/>
+      <Route exact path="/bstu" render={() => <Intro/>}/>
+      <Route exact path="/bstu" render={() => <City/>}/>
+      <Route exact path="/bstu" render={() => <Vision/>}/>
+      <Route exact path="/bstu" render={() => <University/>}/>
       <Route path="/bryansk" component={Bryansk}/>
       <Route path="/our-vision" component={Science}/>
       <Route path="/about-university" component={AboutUniversity}/>
