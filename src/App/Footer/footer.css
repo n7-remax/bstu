@@ -65,9 +65,10 @@
 
 .copyright-place {
     padding-bottom: 20px;
+    text-align: right;
 }
 
 .copyright {
-    color: #144680;
+    color: white;
     font-size: 14px;
 }
