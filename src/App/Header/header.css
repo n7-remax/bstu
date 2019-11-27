@@ -37,7 +37,7 @@
 .nav ul li {
     display: inline;
     margin-right: 20px;
-    font-size: 14px;
+    font-size: 15px;
 }
 
 .header .nav a {
@@ -52,6 +52,6 @@
 
 .header .nav a:hover {
     color: #2163ad;
-    border-bottom: #2163ad 5px solid;
+    border-bottom: #2163ad 6px solid;
     transition: all 0.2s ease-out;
 }
