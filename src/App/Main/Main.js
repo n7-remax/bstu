@@ -9,6 +9,7 @@ import Vision from './Vision/Vision';
 import Bryansk from './Bryansk/Bryansk';
 import Science from './Science/Science';
 import University from './University/University';
+import AboutUniversity from './AboutUniversity/AboutUniversity';
 
 function Main() {
   return (
@@ -19,6 +20,7 @@ function Main() {
       <Route exact path="/" render={() => <University/>}/>
       <Route path="/bryansk" component={Bryansk}/>
       <Route path="/our-vision" component={Science}/>
+      <Route path="/about-university" component={AboutUniversity}/>
 
     </main>
   );
