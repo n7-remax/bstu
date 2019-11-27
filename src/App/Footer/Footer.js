@@ -30,11 +30,11 @@ const Footer = () =>
             <div className="col-five">
                 <ul className="social-icons transition-smooth">
                     <li><a href="http://vk.com/public45393943" title="vk" target="_blank" rel="noopener noreferrer">
-                        <i class="fa fa-vk" aria-hidden="true"></i></a></li>
+                        <i className="fa fa-vk" aria-hidden="true"></i></a></li>
                     <li><a href="https://www.facebook.com/bryanskstu" title="facebook" target="_blank" rel="noopener noreferrer">
                         <i className="fa fa-facebook-square"></i></a></li>
                     <li><a href="http://www.odnoklassniki.ru/group/51457726349441" title="odnoklassniki" target="_blank" rel="noopener noreferrer">
-                        <i class="fa fa-odnoklassniki-square" aria-hidden="true"></i></a></li>
+                        <i className="fa fa-odnoklassniki-square" aria-hidden="true"></i></a></li>
                 </ul>
             </div>
         </div>
