@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import AnchorLink from 'react-anchor-link-smooth-scroll'
 
-import logo from '../../common/images/logo/logo.jpg'
+import logo from '../../common/images/logo/logo.png'
 
 
 import './header.css'
