@@ -7,13 +7,14 @@ const Footer = () =>
         <div className="row footer-info">
             <div className="col-five">
                 <p>
+                    <span>Address:</span>
                     <span>241035, Bryansk, ul Institutskaya, 16,</span>
                     <span>Administrative building, 2nd floor</span>
                     <span>RM. А210, А230, А231</span>
                 </p>
                 <p>
                     <span>Email:</span>
-                    <a href="#">pk@tu-bryansk.ru</a>
+                    <a href="mailto:pk@tu-bryansk.ru">pk@tu-bryansk.ru</a>
                 </p>
                 <p>
                     <span>Phones:</span>
@@ -33,7 +34,7 @@ const Footer = () =>
                     <li><a href="https://www.facebook.com/bryanskstu" title="facebook" target="_blank" rel="noopener noreferrer">
                         <i className="fa fa-facebook-square"></i></a></li>
                     <li><a href="http://www.odnoklassniki.ru/group/51457726349441" title="odnoklassniki" target="_blank" rel="noopener noreferrer">
-                    <i class="fa fa-odnoklassniki-square" aria-hidden="true"></i></a></li>
+                        <i class="fa fa-odnoklassniki-square" aria-hidden="true"></i></a></li>
                 </ul>
             </div>
         </div>
