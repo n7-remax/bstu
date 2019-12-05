@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/bstu/static/css/main.e7be3bdc.chunk.css",
-    "main.js": "/bstu/static/js/main.c012e075.chunk.js",
-    "main.js.map": "/bstu/static/js/main.c012e075.chunk.js.map",
+    "main.css": "/bstu/static/css/main.ec9cfa08.chunk.css",
+    "main.js": "/bstu/static/js/main.ce1b61fb.chunk.js",
+    "main.js.map": "/bstu/static/js/main.ce1b61fb.chunk.js.map",
     "runtime-main.js": "/bstu/static/js/runtime-main.ad7502d5.js",
     "runtime-main.js.map": "/bstu/static/js/runtime-main.ad7502d5.js.map",
     "static/css/2.321230f0.chunk.css": "/bstu/static/css/2.321230f0.chunk.css",
     "static/js/2.7c4c9177.chunk.js": "/bstu/static/js/2.7c4c9177.chunk.js",
     "static/js/2.7c4c9177.chunk.js.map": "/bstu/static/js/2.7c4c9177.chunk.js.map",
     "index.html": "/bstu/index.html",
-    "precache-manifest.ab9191d03ff347baa77ef7332278423b.js": "/bstu/precache-manifest.ab9191d03ff347baa77ef7332278423b.js",
+    "precache-manifest.acfe0e33b24a40970d2db3d9cbf25f6e.js": "/bstu/precache-manifest.acfe0e33b24a40970d2db3d9cbf25f6e.js",
     "service-worker.js": "/bstu/service-worker.js",
     "static/css/2.321230f0.chunk.css.map": "/bstu/static/css/2.321230f0.chunk.css.map",
-    "static/css/main.e7be3bdc.chunk.css.map": "/bstu/static/css/main.e7be3bdc.chunk.css.map",
+    "static/css/main.ec9cfa08.chunk.css.map": "/bstu/static/css/main.ec9cfa08.chunk.css.map",
     "static/media/about-university-2.jpg": "/bstu/static/media/about-university-2.67d1c21f.jpg",
     "static/media/AboutUniversity.css": "/bstu/static/media/about-university.0ea39b6a.jpg",
     "static/media/footer.css": "/bstu/static/media/back-inf.0ff77a6f.jpg",
@@ -34,7 +34,7 @@
     "static/js/runtime-main.ad7502d5.js",
     "static/css/2.321230f0.chunk.css",
     "static/js/2.7c4c9177.chunk.js",
-    "static/css/main.e7be3bdc.chunk.css",
-    "static/js/main.c012e075.chunk.js"
+    "static/css/main.ec9cfa08.chunk.css",
+    "static/js/main.ce1b61fb.chunk.js"
   ]
 }
