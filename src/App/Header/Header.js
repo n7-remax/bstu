@@ -11,7 +11,7 @@ const Header = () =>
     <header className="header">
         <div className="logo-place">
             <Link to="/bstu"><img className="logo" src={logo} alt="logo"></img></Link>
-            <h1><Link to="/">Bryansk State Technical University</Link></h1>
+            <h1><Link to="/bstu">Bryansk State Technical University</Link></h1>
         </div>
         <nav className="nav">
             <ul>
