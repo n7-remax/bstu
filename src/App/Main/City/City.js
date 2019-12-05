@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 import './city.css'
 
 const City = () =>
-    <section className="city">
+    <div className="city">
         <div className="city-container">
             <blockquote>“Bryansk is a City of Military Glory - Here i can literally touch the history.”</blockquote>
         </div>
@@ -15,6 +15,6 @@ const City = () =>
         <div className="buton-place">
         <Link className="buton" to="/bryansk">Learn more about Bryansk</Link>
         </div>
-    </section>
+    </div>
 
 export default City

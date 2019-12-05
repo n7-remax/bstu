@@ -3,7 +3,7 @@ import React from 'react'
 import './bryansk.css'
 
 const Bryansk = () =>
-    <section className="bryansk">
+    <div className="bryansk">
         <div className="arms-place">
             <img src={require('../../../common/images/bryansk-city-arms.png')} alt="city-arms"></img>
         </div>
@@ -14,6 +14,6 @@ const Bryansk = () =>
         <p>The city is a major railway junction through which railway lines run to Moscow, Kiev, Kharkov, Gomel, Smolensk, Orel, and Vyazma. The Bryansk Airport provides regular flights to Moscow, St. Petersburg, Sochi, Krasnodar. The public transport system of Bryansk includes buses, trolleybuses, trams, and minibuses.</p>
         <p>A lot of people come to Bryansk purposefully to improve their health in the local sanatoriums. On the outskirts of Bryansk in the thick of forests there are health camps for children, sanatoriums and recreation centers for everyone.</p>
         <p>This city has a number of noteworthy tourist sites: Orthodox churches, memorials in honor of the heroes of the Second World War, museums, and theaters. The Dvina flowing through Bryansk is a picturesque river, which right bank rises above the water surface and the left one is dotted with small sand spits. Most of the sights of Bryansk are located in its historical center on the right bank of the Desna.</p>
-    </section>
+    </div>
 
 export default Bryansk

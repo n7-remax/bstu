@@ -5,7 +5,7 @@ import AnchorLink from 'react-anchor-link-smooth-scroll'
 import './intro.css'
 
 const Intro = () =>
-  <section className="intro">
+  <div className="intro">
     <div className="row">
       <div className="headline"><p>The place to</p></div>
       <div className="make" aria-label="Make"><p>
@@ -18,6 +18,6 @@ const Intro = () =>
         <AnchorLink className="button" href='#footer'>Sign up today</AnchorLink>
       </div>
     </div>
-  </section>
+  </div>
 
 export default Intro
