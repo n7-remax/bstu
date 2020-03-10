@@ -3,7 +3,7 @@
 .header .logo-place {
     max-width: 1110px;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     margin: 0 auto;
     padding:20px 0;
@@ -15,6 +15,9 @@
     font-family: 'Cinzel', serif;
     margin: 0;
     padding: 0;
+}
+.logo-text{
+    margin: 0 auto;
 }
 
 .logo {
