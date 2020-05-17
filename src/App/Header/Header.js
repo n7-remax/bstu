@@ -4,7 +4,6 @@ import AnchorLink from 'react-anchor-link-smooth-scroll'
 
 import logo from '../../common/images/logo/logo.png'
 
-
 import './header.css'
 
 const Header = () =>
@@ -52,8 +51,8 @@ const Header = () =>
                 <div class="dropdown">
                     <button class="dropbtn">Migration department</button>
                     <div class="dropdown-content">
-                        <a href="#">Invitation</a>
-                        <a href="#">Visa</a>
+                    <Link to="/migration-department/invitation/">Invitation</Link>
+                    <Link to="/migration-department/visa/">Visa</Link>
                         <a href="#">Registration</a>
                         <a href="#">Memo</a>
                     </div>
