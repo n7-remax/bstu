@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bstu/static/css/main.c5e3ca38.chunk.css",
+    "main.css": "/bstu/static/css/main.7793fc2b.chunk.css",
     "main.js": "/bstu/static/js/main.8291927e.chunk.js",
     "main.js.map": "/bstu/static/js/main.8291927e.chunk.js.map",
     "runtime-main.js": "/bstu/static/js/runtime-main.ad7502d5.js",
@@ -9,10 +9,10 @@
     "static/js/2.890cbbf4.chunk.js": "/bstu/static/js/2.890cbbf4.chunk.js",
     "static/js/2.890cbbf4.chunk.js.map": "/bstu/static/js/2.890cbbf4.chunk.js.map",
     "index.html": "/bstu/index.html",
-    "precache-manifest.574049948b532b2748751ee127664432.js": "/bstu/precache-manifest.574049948b532b2748751ee127664432.js",
+    "precache-manifest.12ec7c10576d3c3cdf9280fdf55a0d61.js": "/bstu/precache-manifest.12ec7c10576d3c3cdf9280fdf55a0d61.js",
     "service-worker.js": "/bstu/service-worker.js",
     "static/css/2.d0d99ca8.chunk.css.map": "/bstu/static/css/2.d0d99ca8.chunk.css.map",
-    "static/css/main.c5e3ca38.chunk.css.map": "/bstu/static/css/main.c5e3ca38.chunk.css.map",
+    "static/css/main.7793fc2b.chunk.css.map": "/bstu/static/css/main.7793fc2b.chunk.css.map",
     "static/media/about-university-2.jpg": "/bstu/static/media/about-university-2.67d1c21f.jpg",
     "static/media/main.css": "/bstu/static/media/visa-bg.34c8c375.jpg",
     "static/media/british-council.png": "/bstu/static/media/british-council.6ca732ca.png",
@@ -32,7 +32,7 @@
     "static/js/runtime-main.ad7502d5.js",
     "static/css/2.d0d99ca8.chunk.css",
     "static/js/2.890cbbf4.chunk.js",
-    "static/css/main.c5e3ca38.chunk.css",
+    "static/css/main.7793fc2b.chunk.css",
     "static/js/main.8291927e.chunk.js"
   ]
 }

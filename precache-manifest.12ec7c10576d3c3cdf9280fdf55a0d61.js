@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7d7ee9dc8a5c91d4481154ef4dd9d06f",
+    "revision": "7dbd1e6f70712da1692980a822176281",
     "url": "/bstu/index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bstu/static/css/2.d0d99ca8.chunk.css"
   },
   {
-    "revision": "c3984c29689222e4ce55",
-    "url": "/bstu/static/css/main.c5e3ca38.chunk.css"
+    "revision": "0b57eddc45599d0889f3",
+    "url": "/bstu/static/css/main.7793fc2b.chunk.css"
   },
   {
     "revision": "ae79842f20f987081195",
     "url": "/bstu/static/js/2.890cbbf4.chunk.js"
   },
   {
-    "revision": "c3984c29689222e4ce55",
+    "revision": "0b57eddc45599d0889f3",
     "url": "/bstu/static/js/main.8291927e.chunk.js"
   },
   {
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bstu/static/media/engineer.2db81e5c.jpg"
   },
   {
-    "revision": "8be84f722648365668c9408d6a191755",
-    "url": "/bstu/static/media/international-department-bg.8be84f72.jpg"
+    "revision": "31385b6958ba7e3be262154689efc9a6",
+    "url": "/bstu/static/media/international-department-bg.31385b69.jpg"
   },
   {
     "revision": "7fe99cfbf5d68bc35f89ebc81be917be",
