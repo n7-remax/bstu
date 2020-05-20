@@ -10,6 +10,7 @@ import University from './University/University';
 import AboutUniversity from './AboutUniversity/AboutUniversity';
 import Invitation from '../MigrationDepartment/Invitation/Invitation';
 import Visa from '../MigrationDepartment/Visa/Visa';
+import InternationalDepartment from '../AboutUs/InternationalDepartment/InternationalDepartment';
 
 function Main() {
   return (
@@ -19,10 +20,11 @@ function Main() {
       <Route exact path="/bstu" render={() => <Vision/>}/>
       <Route exact path="/bstu" render={() => <University/>}/>
       <Route path="/migration-department/invitation/" component={Invitation}/>
-      <Route path="/migration-department/visa/" component={Visa}/>
-      <Route path="/bryansk" component={Bryansk}/>
-      <Route path="/our-vision" component={Science}/>
-      <Route path="/about-university" component={AboutUniversity}/>
+      <Route path="/migration-department/international-department/" component={InternationalDepartment}/>
+      <Route path="/about-us/visa/" component={Visa}/>
+      <Route path="/bryansk/" component={Bryansk}/>
+      <Route path="/our-vision/" component={Science}/>
+      <Route path="/about-university/" component={AboutUniversity}/>
 
     </main>
   );

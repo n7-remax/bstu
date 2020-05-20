@@ -1,27 +1,27 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-import './vision.css'
-
 const Vision = () =>
     <section className="vision">
-        <h2>Our Vision</h2>
-        <div className="flex">
-            <div className="col-three">
-                <h3>Learn to transform</h3>
-                <p>ensuring that studying at BSTU is a life-changing experience for every student</p>
+        <div className="container">
+            <h2>Our Vision</h2>
+            <div className="flex">
+                <div className="col-three">
+                    <h3>Learn to transform</h3>
+                    <p>ensuring that studying at BSTU is a life-changing experience for every student</p>
+                </div>
+                <div className="col-three">
+                    <h3>Research with impact</h3>
+                    <p>building an international reputation for research that makes a difference to people's lives</p>
+                </div>
+                <div className="col-three">
+                    <h3>Engage for change</h3>
+                    <p>forming partnerships and making connections, in pursuit of progressive goals</p>
+                </div>
             </div>
-            <div className="col-three">
-                <h3>Research with impact</h3>
-                <p>building an international reputation for research that makes a difference to people's lives</p>
+            <div className="button-place">
+                <Link className="button" to="/our-vision/">Learn more about us</Link>
             </div>
-            <div className="col-three">
-                <h3>Engage for change</h3>
-                <p>forming partnerships and making connections, in pursuit of progressive goals</p>
-            </div>
-        </div>
-        <div className="button-place">
-        <Link className="button" to="/our-vision">Learn more about us</Link>
         </div>
     </section>
 

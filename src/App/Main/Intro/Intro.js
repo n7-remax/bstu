@@ -1,12 +1,9 @@
 import React from 'react'
 import AnchorLink from 'react-anchor-link-smooth-scroll'
 
-
-import './intro.css'
-
 const Intro = () =>
   <div className="intro">
-    <div className="row">
+    <div className="container">
       <div className="headline"><p>The place to</p></div>
       <div className="make" aria-label="Make"><p>
         <span>M</span><span>A</span><span>K</span><span>E</span>
