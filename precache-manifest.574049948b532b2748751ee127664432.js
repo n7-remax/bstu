@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dee3aa5f10a6a84f2fbe2f6bb3e769f2",
+    "revision": "7d7ee9dc8a5c91d4481154ef4dd9d06f",
     "url": "/bstu/index.html"
   },
   {
-    "revision": "8ea4e0b40834f505d844",
-    "url": "/bstu/static/css/2.321230f0.chunk.css"
+    "revision": "ae79842f20f987081195",
+    "url": "/bstu/static/css/2.d0d99ca8.chunk.css"
   },
   {
-    "revision": "87aa46d65439dff8ce0d",
-    "url": "/bstu/static/css/main.b787abd0.chunk.css"
+    "revision": "c3984c29689222e4ce55",
+    "url": "/bstu/static/css/main.c5e3ca38.chunk.css"
   },
   {
-    "revision": "8ea4e0b40834f505d844",
-    "url": "/bstu/static/js/2.89c916f1.chunk.js"
+    "revision": "ae79842f20f987081195",
+    "url": "/bstu/static/js/2.890cbbf4.chunk.js"
   },
   {
-    "revision": "87aa46d65439dff8ce0d",
-    "url": "/bstu/static/js/main.9bb1d264.chunk.js"
+    "revision": "c3984c29689222e4ce55",
+    "url": "/bstu/static/js/main.8291927e.chunk.js"
   },
   {
     "revision": "3308574716c9ab1f3204",
@@ -36,6 +36,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bstu/static/media/back-inf.0ff77a6f.jpg"
   },
   {
+    "revision": "6ca732cab0ff6dfe2d75252f3da883f4",
+    "url": "/bstu/static/media/british-council.6ca732ca.png"
+  },
+  {
     "revision": "e6fb7a98a08ca283cadefbc10bfeeae1",
     "url": "/bstu/static/media/bryansk-city-arms.e6fb7a98.png"
   },
@@ -44,8 +48,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bstu/static/media/bryansk.3c4f22ab.jpg"
   },
   {
+    "revision": "a417243b73c079906b30740d0c2d6f7e",
+    "url": "/bstu/static/media/daad.a417243b.png"
+  },
+  {
     "revision": "2db81e5c3a7ae578a590415ab0d2ea3c",
     "url": "/bstu/static/media/engineer.2db81e5c.jpg"
+  },
+  {
+    "revision": "8be84f722648365668c9408d6a191755",
+    "url": "/bstu/static/media/international-department-bg.8be84f72.jpg"
+  },
+  {
+    "revision": "7fe99cfbf5d68bc35f89ebc81be917be",
+    "url": "/bstu/static/media/invitation-bg.7fe99cfb.jpg"
   },
   {
     "revision": "05ef392afbefcad63d9f0bfeecb47373",
@@ -98,5 +114,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0c94bfa4833acaa28c6b0180e105b6ea",
     "url": "/bstu/static/media/students.0c94bfa4.jpg"
+  },
+  {
+    "revision": "34c8c3759e81cb378deff9770daf878c",
+    "url": "/bstu/static/media/visa-bg.34c8c375.jpg"
   }
 ]);
